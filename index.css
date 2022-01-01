@@ -1,0 +1,14 @@
+.header{
+    padding: 1rem 0em;
+}
+
+.p1 {
+    display:grid;
+
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
